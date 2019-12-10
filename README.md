@@ -1,2 +1,2 @@
 # gitrev
-revision id generator for git repositories for go programs
+Revision id generator for Go programs in git repositories.
